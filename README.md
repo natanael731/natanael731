@@ -1,7 +1,7 @@
 <h1 align="center">Natanael Cristofe</h1>
 
 <p align="center">
-  Estudande de desenvolvimento de sistemas
+  Estudante de desenvolvimento de sistemas
   
 </p>
 
